@@ -1,6 +1,7 @@
 import React, { use, useState, useEffect } from 'react';
 import Bottle from './Bottle';
 import { addCart, getCart } from '../js/localstorage';
+import AddToCart from './AddToCart';
 
 const Bottles = ({bottlesPromise}) => {
 
@@ -42,6 +43,7 @@ const Bottles = ({bottlesPromise}) => {
             <h1 className='text-3xl text-center font-bold mt-10'>Water Bottles :{bottles.length}</h1>
             <p className='text-3xl text-center font-bold mt-10' >Added to cart: {cart.length}</p>
 
+            <AddToCart cart ={cart}></AddToCart>
             { 
 
                 bottles.map(bottle => <Bottle 
