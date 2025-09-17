@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Clay Pot",
+    "material": "Clay",
+    "capacity_liters": 5,
+    "color": "Brown",
+    "weight_kg": 2.5,
+    "lifetime_years": 3,
+    "usage": "Keeps water naturally cool",
+    "price_usd": 12.5,
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf0hdbMbtLO-e0r-UEx-mZnjbFnB3YofNWpwvqV1F1aC0lNfUZ2jwGhrMplEw9PFTloxPOJCo4y9sOzVM7VC06wNkm1YiVY3idhPIX-zoNF65pPnutBRYpwxk&usqp=CAc"
+  },
+  {
+    "id": 2,
+    "name": "Copper Pot",
+    "material": "Copper",
+    "capacity_liters": 3,
+    "color": "Copper Red",
+    "weight_kg": 2.0,
+    "lifetime_years": 15,
+    "usage": "Purifies water and boosts health",
+    "price_usd": 25,
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0-ENapTD6BF7m3vfh3C_f5uklcB3pFUz8yFfBn6sdnY0Z4ellLVlI2-gLGZd4y166OCNh020ARXvMyf34hAZh5EIjNFiTS0ZxhqizSbAl7VEI2c3xx5YWyg&usqp=CAc"
+  },
+  {
+    "id": 3,
+    "name": "Steel Water Pot",
+    "material": "Stainless Steel",
+    "capacity_liters": 4,
+    "color": "Silver",
+    "weight_kg": 1.8,
+    "lifetime_years": 20,
+    "usage": "Durable for daily household use",
+    "price_usd": 18,
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkU_obJ4Z4iyGXrm8CGiQLes2YQThOHyNxNrxqNvJ8mtXahb_Jejboy8udogZ1eMYiishHdGYEeEAnEPKKevtnEG_UDh_E60G6l3XIWCwIesC8MbNQhHn1&usqp=CAc"
+  },
+  {
+    "id": 4,
+    "name": "Brass Pot",
+    "material": "Brass",
+    "capacity_liters": 6,
+    "color": "Golden",
+    "weight_kg": 3.2,
+    "lifetime_years": 25,
+    "usage": "Traditional storage, long-lasting",
+    "price_usd": 28,
+    "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTvByMv9CD3R_gg_P6LtNeDQrNpweLJEmLrwId_j7QT_2DT_pzznnPUb4QHatuHRjWR2iyZcrbSILMalFrvrIDO4DKvVlWz8DbCEAFEElGercOmagJ4hpTpQ"
+  },
+  {
+    "id": 5,
+    "name": "Plastic Water Pot",
+    "material": "Plastic",
+    "capacity_liters": 10,
+    "color": "Blue",
+    "weight_kg": 1.2,
+    "lifetime_years": 5,
+    "usage": "Lightweight and easy to carry",
+    "price_usd": 8,
+    "image_url": "https://cdn.pixabay.com/photo/2017/03/19/03/37/water-2156882_1280.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ceramic Pot",
+    "material": "Ceramic",
+    "capacity_liters": 2,
+    "color": "White",
+    "weight_kg": 2.0,
+    "lifetime_years": 7,
+    "usage": "Good for indoor decorative use",
+    "price_usd": 15,
+    "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_ku1oCWvMdRjf_0DKAadKHRLr2cInVkdy11E2oCdD0y5gMksfkyf0cZMJW3SNlaL4J-CR7t55YLbiTdgaOi552tMD0OKRgJFm7mHflcNG"
+  },
+  {
+    "id": 7,
+    "name": "Glass Pot",
+    "material": "Glass",
+    "capacity_liters": 1.5,
+    "color": "Transparent",
+    "weight_kg": 1.5,
+    "lifetime_years": 4,
+    "usage": "Stylish, but fragile",
+    "price_usd": 20,
+    "image_url": "https://cdn.pixabay.com/photo/2016/11/29/09/08/glass-1869876_1280.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Aluminum Pot",
+    "material": "Aluminum",
+    "capacity_liters": 7,
+    "color": "Silver",
+    "weight_kg": 1.6,
+    "lifetime_years": 12,
+    "usage": "Affordable and lightweight",
+    "price_usd": 14,
+    "image_url": "https://cdn.pixabay.com/photo/2014/12/11/02/56/aluminum-563285_1280.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Bronze Pot",
+    "material": "Bronze",
+    "capacity_liters": 5.5,
+    "color": "Dark Brown",
+    "weight_kg": 3.5,
+    "lifetime_years": 30,
+    "usage": "Traditional and very durable",
+    "price_usd": 30,
+    "image_url": "https://cdn.pixabay.com/photo/2016/08/17/20/26/bronze-1609634_1280.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Painted Clay Pot",
+    "material": "Clay",
+    "capacity_liters": 3.5,
+    "color": "Multi-color",
+    "weight_kg": 2.2,
+    "lifetime_years": 4,
+    "usage": "Decorative and cooling water",
+    "price_usd": 18,
+    "image_url": "https://images.unsplash.com/photo-1583408914040-f4e3e02aa527?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  }
+]
