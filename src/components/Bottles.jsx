@@ -1,6 +1,6 @@
 import React, { use, useState, useEffect } from 'react';
 import Bottle from './Bottle';
-import { addCart, getCart } from '../js/localstorage';
+import { addCart, getCart, deleteLs } from '../js/localstorage';
 import AddToCart from './AddToCart';
 
 const Bottles = ({bottlesPromise}) => {
@@ -34,16 +34,26 @@ const Bottles = ({bottlesPromise}) => {
 
         // save the bottle id in the local storage 
         addCart(bottle.id)
-
-
     }
     
+     // add to cart delete function 
+    const handleDelete =(id)=>{
+        // console.log("remove " , id)
+        const remainingCart = cart.filter(bottle => bottle.id !== id);
+        setCart(remainingCart);
+        deleteLs(id);
+    }
+
+
+
     return (
         <div>
             <h1 className='text-3xl text-center font-bold mt-10'>Water Bottles :{bottles.length}</h1>
             <p className='text-3xl text-center font-bold mt-10' >Added to cart: {cart.length}</p>
 
-            <AddToCart cart ={cart}></AddToCart>
+            <AddToCart cart ={cart}
+            handleDelete={handleDelete}
+             ></AddToCart>
             { 
 
                 bottles.map(bottle => <Bottle 

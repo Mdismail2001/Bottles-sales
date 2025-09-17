@@ -25,4 +25,15 @@ const saveCart = (cart)=>{
 
 }
 
-export{ getCart, addCart}
+
+const deleteLs =(id)=>{
+    // console.log(id)
+    const storedCart = getCart();
+    const remainingCart = storedCart.filter(storedId => storedId !== id)
+    saveCart(remainingCart);
+
+}
+
+
+
+export{ getCart, addCart, deleteLs}

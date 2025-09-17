@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "a3c8e5f2-91b4-4f8f-bc7f-23ad8d94c1f2",
     "name": "Clay Pot",
     "material": "Clay",
     "capacity_liters": 5,
@@ -12,7 +12,7 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSf0hdbMbtLO-e0r-UEx-mZnjbFnB3YofNWpwvqV1F1aC0lNfUZ2jwGhrMplEw9PFTloxPOJCo4y9sOzVM7VC06wNkm1YiVY3idhPIX-zoNF65pPnutBRYpwxk&usqp=CAc"
   },
   {
-    "id": 2,
+    "id": "e71f5c1a-4c49-4983-9230-629e3aafc46d",
     "name": "Copper Pot",
     "material": "Copper",
     "capacity_liters": 3,
@@ -24,7 +24,7 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR0-ENapTD6BF7m3vfh3C_f5uklcB3pFUz8yFfBn6sdnY0Z4ellLVlI2-gLGZd4y166OCNh020ARXvMyf34hAZh5EIjNFiTS0ZxhqizSbAl7VEI2c3xx5YWyg&usqp=CAc"
   },
   {
-    "id": 3,
+    "id": "d9c14425-2b6c-4c1f-8b1e-6099cf8612ef",
     "name": "Steel Water Pot",
     "material": "Stainless Steel",
     "capacity_liters": 4,
@@ -36,7 +36,7 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkU_obJ4Z4iyGXrm8CGiQLes2YQThOHyNxNrxqNvJ8mtXahb_Jejboy8udogZ1eMYiishHdGYEeEAnEPKKevtnEG_UDh_E60G6l3XIWCwIesC8MbNQhHn1&usqp=CAc"
   },
   {
-    "id": 4,
+    "id": "f63b1e9b-0839-45cb-9300-0d99365a8f18",
     "name": "Brass Pot",
     "material": "Brass",
     "capacity_liters": 6,
@@ -48,7 +48,7 @@
     "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRTvByMv9CD3R_gg_P6LtNeDQrNpweLJEmLrwId_j7QT_2DT_pzznnPUb4QHatuHRjWR2iyZcrbSILMalFrvrIDO4DKvVlWz8DbCEAFEElGercOmagJ4hpTpQ"
   },
   {
-    "id": 5,
+    "id": "c22f84b8-70cd-4de6-a7dc-46a8ebd29f91",
     "name": "Plastic Water Pot",
     "material": "Plastic",
     "capacity_liters": 10,
@@ -60,7 +60,7 @@
     "image_url": "https://cdn.pixabay.com/photo/2017/03/19/03/37/water-2156882_1280.jpg"
   },
   {
-    "id": 6,
+    "id": "b7ef09ad-030f-49cc-9f88-73b299517c0c",
     "name": "Ceramic Pot",
     "material": "Ceramic",
     "capacity_liters": 2,
@@ -72,7 +72,7 @@
     "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_ku1oCWvMdRjf_0DKAadKHRLr2cInVkdy11E2oCdD0y5gMksfkyf0cZMJW3SNlaL4J-CR7t55YLbiTdgaOi552tMD0OKRgJFm7mHflcNG"
   },
   {
-    "id": 7,
+    "id": "9b7e7a54-6b77-4f24-b45d-7a4bcfd097de",
     "name": "Glass Pot",
     "material": "Glass",
     "capacity_liters": 1.5,
@@ -84,7 +84,7 @@
     "image_url": "https://cdn.pixabay.com/photo/2016/11/29/09/08/glass-1869876_1280.jpg"
   },
   {
-    "id": 8,
+    "id": "417cfebd-19f5-4c73-8cb6-8a13c7f462fa",
     "name": "Aluminum Pot",
     "material": "Aluminum",
     "capacity_liters": 7,
@@ -96,7 +96,7 @@
     "image_url": "https://cdn.pixabay.com/photo/2014/12/11/02/56/aluminum-563285_1280.jpg"
   },
   {
-    "id": 9,
+    "id": "1f99f0a4-5827-45cc-8d78-01f4b37fa3f3",
     "name": "Bronze Pot",
     "material": "Bronze",
     "capacity_liters": 5.5,
@@ -108,7 +108,7 @@
     "image_url": "https://cdn.pixabay.com/photo/2016/08/17/20/26/bronze-1609634_1280.jpg"
   },
   {
-    "id": 10,
+    "id": "83f71c29-14cd-46db-9d6f-9a88a1d9db36",
     "name": "Painted Clay Pot",
     "material": "Clay",
     "capacity_liters": 3.5,
